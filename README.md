@@ -1,2 +1,2 @@
 # stock
-A PHP code from scratch using the MVC strusture
+A simple PHP code project using the MVC structure
